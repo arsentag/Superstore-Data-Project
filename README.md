@@ -5,7 +5,7 @@ The project is divided into three main phases:
 - Data Collection and Preprocessing
 - Exploratory Data Analysis (EDA)
 - Data Modeling and Evaluation
-- Dashboard developed using Tableau
+- Interactive Tableau Dashboard
 
 ## Dataset
 Source: https://public.tableau.com/app/learn/sample-data
@@ -25,6 +25,11 @@ Source: https://public.tableau.com/app/learn/sample-data
 3. Modeling_Notebook.ipynb
 - Implements regression models, classification models, and clustering.
 - Evaluates model performance and interprets clustering results.
+4. Superstore_Dashboard.twb
+- Profit by Category and Sub-Category (Horizontal Bar Chart)
+- Discount Impact on Profit (Scatter Plot)
+- Customer Segmentation and their sales (Treemap)
+- Sales by Ship Mode (Stacked Bars) 
 ### Datasets:
 - superstore_data.xls: Initial dataset from Tableau Public
 - superstore_data.csv: Cleaned and preprocessed dataset for EDA
