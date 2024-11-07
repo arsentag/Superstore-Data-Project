@@ -5,6 +5,7 @@ The project is divided into three main phases:
 - Data Collection and Preprocessing
 - Exploratory Data Analysis (EDA)
 - Data Modeling and Evaluation
+- Dashboard developed using Tableau
 
 ## Dataset
 Source: https://public.tableau.com/app/learn/sample-data
@@ -38,6 +39,15 @@ Source: https://public.tableau.com/app/learn/sample-data
 - Regression: Random Forest Regressor explained 46% of the variance in sales predictions.
 - Classification: Random Forest Classifier achieved an F1 Score of 0.59 for profitability classification.
 - Clustering: K-Means identified three distinct clusters based on sales and profit characteristics.
+
+## Future Work
+- Expand clustering analysis with hierarchical clustering for more granular segmentation.
+- Integrate advanced regression models (e.g., XGBoost) to improve sales prediction accuracy.
+
+## License
+This project is licensed under the MIT License.
+
+
 
 
 
